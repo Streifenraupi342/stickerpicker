@@ -1,0 +1,8 @@
+{
+  "packs": [
+    "Wuffi.json",
+    "Corgi.json",
+    "Zelda.json"
+  ],
+  "homeserver_url": "https://kierchat.homelinuxserver.org:8443"
+}
